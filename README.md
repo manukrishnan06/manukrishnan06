@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manukrishnan06
-- 👀 I’m interested in mobile app development,data science
-- 🌱 I’m currently learning flutter,python
+- 👀 I’m interested in mobile app development,web development
+- 🌱 I’m currently learning django,python
 - 📫 How to reach me manukrishnan2332@gmail.com
 
 <!---
